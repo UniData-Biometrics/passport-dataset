@@ -20,8 +20,8 @@ Dataset comprises **100,000+** synthetically generated images of passports from 
 ### 🧩 Like the dataset but need different data? We can collect a custom dataset just for you - learn more about our data collection services [here](https://unidata.pro/datasets/synthetic-passports/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=passport-dataset)
 
 ## Similar Datasets:
-1. [DeepFake Videos Dataset](https://unidata.pro/datasets/deepfake-videos-dataset/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=deepfake-dataset)
-2. [Facial Keypoint Detection Dataset](https://unidata.pro/datasets/facial-keypoint-detection/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=facial-keypoint-detection)
-3. [LLM Text Generation Dataset](https://unidata.pro/datasets/llm-text-generation/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=llm-text-generation-dataset)
+1. [DeepFake Videos Dataset](https://unidata.pro/datasets/deepfake-videos-dataset/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=passport-dataset)
+2. [Facial Keypoint Detection Dataset](https://unidata.pro/datasets/facial-keypoint-detection/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=passport-dataset)
+3. [LLM Text Generation Dataset](https://unidata.pro/datasets/llm-text-generation/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=passport-dataset)
 
 ## 🌐 [UniData](https://unidata.pro/datasets/synthetic-passports/?utm_source=github-biometrics&utm_medium=referral&utm_campaign=passport-dataset) - your trusted data partner. Unique, accurate, thoroughly collected and annotated data designed to fuel your AI/ML success.
